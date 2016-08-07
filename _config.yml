@@ -1,4 +1,3 @@
-layout_spectrum: 0.22956983046606183
 typography_spectrum: 0.18268937105312943
 color:
   brandStrength: 0.7515165726654232
@@ -11,4 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.22956983046606183
 name: Fred Zimmerman - The Chicago Mentalist
+title: Sherlock in Chicago
+description: The only difference between Fred & Freud ... is you.
